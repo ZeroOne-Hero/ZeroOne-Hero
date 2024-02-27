@@ -1,10 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=DevMari999.DevMari999" />
 
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Marina!;" />
-</h1>
 
-<h3 align="center">A passionate software developer from Canada 🇨🇦</h3>
+![WElcome, My name is Marina](https://github.com/DevMari999/DevMari999/assets/135366781/fd017745-31b4-4609-8a1d-41ddb24a26fc)
 
 <br/>
 
