@@ -1,15 +1,12 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=DevMari999.DevMari999" />
 
+<br/>
 
 ![WElcome, My name is Marina](https://github.com/DevMari999/DevMari999/assets/135366781/fd017745-31b4-4609-8a1d-41ddb24a26fc)
 
 <br/>
 
 <div align="center">
- 
- 🔭 I’m currently working on **a CRM platform**
- 
- 🌱 I’m currently learning **Docker, React Native, AWS**
 
 💬 Ask me about **Node.js, React, Web Development... or anything [here](https://github.com/DevMari999/DevMari999/issues)**
 
@@ -17,13 +14,13 @@
 
 <div align="center"> 
   <a href="mailto:qwe39117@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=004080" />
   </a>
   <a href="https://www.linkedin.com/in/mari-dvlpr/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&color=004080" />
   </a>
   <a href="https://portfolio-marina-kappa.vercel.app/">
-    <img src="https://img.shields.io/badge/Visit_My_Portfolio-0077B5?style=for-the-badge&logo=vercel&logoColor=white" />
+    <img src="https://img.shields.io/badge/Visit_My_Portfolio-0077B5?style=for-the-badge&logo=vercel&logoColor=white&color=004080" />
   </a>
 </div>
 
