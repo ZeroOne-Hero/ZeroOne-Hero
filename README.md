@@ -28,7 +28,8 @@
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
-![snake svg](https://github.com/your_github_username/your_github_username/blob/output/github-contribution-grid-snake.svg)
+![snake svg](https://github.com/DevMari999/DevMari999/blob/output/github-contribution-grid-snake.svg)
+
 
   <br/><br/><br/>
 </div>
