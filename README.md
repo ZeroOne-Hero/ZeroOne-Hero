@@ -23,15 +23,11 @@
     <img src="https://img.shields.io/badge/Visit_My_Portfolio-0077B5?style=for-the-badge&logo=vercel&logoColor=white&color=111728" />
   </a>
 </div>
-
-
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
-  <br>
 
  ![Snake animation](https://github.com/DevMari999/DevMari999/blob/output/github-contribution-grid-snake.svg)
   
-  <br/><br/><br/>
 </div>
 
 
