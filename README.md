@@ -2,7 +2,7 @@
 
 <br/>
 
-![WElcome, My name is Marina](https://github.com/DevMari999/DevMari999/assets/135366781/fd017745-31b4-4609-8a1d-41ddb24a26fc)
+![WElcome, My name is Marina](https://github.com/DevMari999/DevMari999/blob/output/github-contribution-grid-snake.svg)
 
 <br/>
 
@@ -52,5 +52,5 @@
 
 
 <br/>
-  ![Snake animation](https://github.com/eagrundy/eagrundy/blob/output/github-contribution-grid-snake.svg)
+
 
