@@ -26,18 +26,14 @@
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
 
-![DevMari999's Streak](https://github-readme-streak-stats.herokuapp.com/?user=DevMari999&theme=merko&hide_border=true)
-![DevMari999's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DevMari999&theme=merko&show_icons=true&hide_border=true&layout=compact)
+ ![Snake animation](https://github.com/DevMari999/DevMari999/blob/output/github-contribution-grid-snake.svg)
   
 </div>
 
 
 <h2 align="center">⚡ Stats ⚡</h2>
-
 ![DevMari999's Streak](https://github-readme-streak-stats.herokuapp.com/?user=DevMari999&theme=merko&hide_border=true)
-<br/><br/>
-
-<hr/>
+![DevMari999's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DevMari999&theme=merko&show_icons=true&hide_border=true&layout=compact)
 
 <br/>
 
