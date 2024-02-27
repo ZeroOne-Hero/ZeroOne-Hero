@@ -46,7 +46,7 @@
 
   <img height="200" width="300" src="https://github-readme-stats.vercel.app/api?username=DevMari999&show_icons=true&theme=react&border_radius=10" alt="GitHub Stats"/>
   <br/>
-  <img height="200" height="300" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevMari999&hide=html&langs_count=8&layout=compact&theme=react&border_radius=10" alt="Top Languages"/>
+  <img height="200" width="300" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevMari999&hide=html&langs_count=8&layout=compact&theme=react&border_radius=10" alt="Top Languages"/>
 </div>
 
 
