@@ -29,7 +29,8 @@
   <h2>🐍 My Contributions 🐍</h2>
   <br>
 
-  <img alt="snake eating my contributions" src="https://github.com/DevMari999/DevMari999/blob/output/github-contribution-grid-snake.svg" />
+  ![Snake animation](https://github.com/DevMari999/DevMari999/blob/output/github-contribution-grid-snake.svg)
+  
   <br/><br/><br/>
 </div>
 
@@ -51,6 +52,5 @@
 
 
 <br/>
-
 
 
