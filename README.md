@@ -36,7 +36,7 @@
 <div align="center">
   <img height="200" width="500" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevMari999&hide=html&langs_count=8&layout=compact&theme=react&border_radius=10" alt="Top Languages"/>
 </div>
-
+![DevMari999's Streak](https://github-readme-streak-stats.herokuapp.com/?user=DevMari999&theme=merko&hide_border=true)
 
 <br/><br/>
 
