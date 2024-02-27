@@ -2,21 +2,21 @@ name: Generate Snake Game
 
 on:
   schedule:
-    - cron: '0 0 * * *' # Runs at midnight to update the snake graph
+    - cron: '0 0 * * *' 
   workflow_dispatch:
 
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-    - uses: actions/checkout@v3 # Updated to the latest version
+    - uses: actions/checkout@v3
     - uses: Platane/snk@master
       with:
         github_user_name: DevMari999
         svg_out_path: dist/github-contribution-grid-snake.svg
-    - uses: crazy-max/ghaction-github-pages@v3 # Assuming v3 exists and supports Node.js 20
+    - uses: crazy-max/ghaction-github-pages@v3
       with:
         target_branch: gh-pages
         build_dir: dist
-    env:
-  GITHUB_TOKEN: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
+      env:
+        GITHUB_TOKEN: ${{ secrets.PERSONAL_ACCESS_TOKEN }} 
