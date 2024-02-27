@@ -43,10 +43,10 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align="center">
-  <img width="390" src="https://github-readme-streak-stats.herokuapp.com/?user=DevMari999&theme=react&border_radius=10" alt="streak stats"/>
-  <img width="390" src="https://github-readme-stats.vercel.app/api?username=DevMari999&show_icons=true&theme=react&border_radius=10" alt="GitHub Stats"/>
+
+  <img height="200" src="https://github-readme-stats.vercel.app/api?username=DevMari999&show_icons=true&theme=react&border_radius=10" alt="GitHub Stats"/>
   <br/>
-  <img width="325" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevMari999&hide=html&langs_count=8&layout=compact&theme=react&border_radius=10" alt="Top Languages"/>
+  <img height="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevMari999&hide=html&langs_count=8&layout=compact&theme=react&border_radius=10" alt="Top Languages"/>
 </div>
 
 
