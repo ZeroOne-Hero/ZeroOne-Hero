@@ -9,12 +9,12 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-    - uses: actions/checkout@v2
+    - uses: actions/checkout@v3 # Updated to the latest version
     - uses: Platane/snk@master
       with:
         github_user_name: DevMari999
         svg_out_path: dist/github-contribution-grid-snake.svg
-    - uses: crazy-max/ghaction-github-pages@v2
+    - uses: crazy-max/ghaction-github-pages@v3 # Assuming v3 exists and supports Node.js 20
       with:
         target_branch: gh-pages
         build_dir: dist
