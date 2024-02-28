@@ -14,13 +14,13 @@
 
 <div align="center">
   <a href="mailto:qwe39117@gmail.com">
-    <img src="https://github.com/DevMari999/DevMari999/assets/135366781/bc478679-a0fd-403c-a3bb-e9d38e1f7954" alt="Gmail" height="30"/>
+    <img src="https://github.com/DevMari999/DevMari999/assets/135366781/20f21105-a03a-4992-9d8f-49cb8e9f9bd2" alt="Gmail" height="30"/>
   </a>
   <a href="https://www.linkedin.com/in/mari-dvlpr/" target="_blank">
-    <img src="https://github.com/DevMari999/DevMari999/assets/135366781/0f9c3396-31f4-4540-829e-c1ff10afacba" alt="LinkedIn" height="30"/>
+    <img src="https://github.com/DevMari999/DevMari999/assets/135366781/9f21e1be-f860-4aa3-baf7-7bd8200c140f" alt="LinkedIn" height="30"/>
   </a>
   <a href="https://portfolio-marina-kappa.vercel.app/">
-    <img src="https://github.com/DevMari999/DevMari999/assets/135366781/fcba5420-2a33-452f-a1de-528175c5b7f4" alt="Portfolio" height="30"/>
+    <img src="https://github.com/DevMari999/DevMari999/assets/135366781/c47b09d3-9093-42c1-bc5b-29c031965493" alt="Portfolio" height="30"/>
   </a>
 </div>
 
