@@ -34,8 +34,8 @@
 <br>
 
 <div align="center" style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevMari999&theme=merko&show_icons=true&hide_border=true&layout=compact" alt="DevMari999's Top Languages" style="height: 160px; width: auto; margin-right: 10px;" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DevMari999&theme=merko&hide_border=true" alt="DevMari999's Streak" style="height: 160px; width: auto;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevMari999&theme=merko&show_icons=true&hide_border=true&layout=compact" alt="DevMari999's Top Languages" style="height: 170px; width: auto; margin-right: 10px;" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DevMari999&theme=merko&hide_border=true" alt="DevMari999's Streak" style="height: 170px; width: auto;" />
 </div>
 
 <br/><br/>
