@@ -1,6 +1,6 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=DevMari999.DevMari999" />
 
-<img src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='100%' height='100%' viewBox='0 0 800 400' %3E%3Crect width='100%' height='100%' fill='%23{your_hex_color}'/%3E%3C/svg%3E" alt="Background Image">
+<img src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='100%' height='100%' viewBox='0 0 800 400' %3E%3Crect width='100%' height='100%' fill='%23111728'/%3E%3C/svg%3E" alt="Background Image">
 
 <br/>
 
