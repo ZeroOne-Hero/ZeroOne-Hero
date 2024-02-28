@@ -29,6 +29,7 @@
  ![Snake animation](https://github.com/DevMari999/DevMari999/blob/output/github-contribution-grid-snake.svg)
   
 </div>
+![Test Image](https://via.placeholder150.com/](https://www.simplilearn.com/ice9/free_resources_article_thumb/what_is_image_Processing.jpg)
 
 
 <h2 align="center">⚡ Stats ⚡</h2>
