@@ -38,8 +38,5 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=DevMari999&theme=merko&hide_border=true" alt="DevMari999's Streak" style="height: 170px; width: auto;" />
 </div>
 
-<br/><br/>
-<hr/>
-
-
 <br/>
+
