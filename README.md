@@ -12,17 +12,24 @@
 
  </div>
 
-<div align="center"> 
+<div align="center">
   <a href="mailto:qwe39117@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=111728" />
+
+    ![Your paragraph text copy](https://github.com/DevMari999/DevMari999/assets/135366781/52c775c3-0a6a-470e-b08f-5a60b49fa77a)
+  
+
   </a>
   <a href="https://www.linkedin.com/in/mari-dvlpr/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&color=111728" />
+ 
+
+   ![Your paragraph text copy 2](https://github.com/DevMari999/DevMari999/assets/135366781/c04c5423-826d-4c41-8d0d-2d756aae4f30)
+   
   </a>
   <a href="https://portfolio-marina-kappa.vercel.app/">
-    <img src="https://img.shields.io/badge/Visit_My_Portfolio-0077B5?style=for-the-badge&logo=vercel&logoColor=white&color=111728" />
+ ![Your paragraph text](https://github.com/DevMari999/DevMari999/assets/135366781/d3d52a09-3ca4-44b9-b238-1819d9434fc7)
   </a>
 </div>
+
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
 
