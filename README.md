@@ -2,7 +2,7 @@
 
 <br/>
 
-![WElcome, My name is Marina](https://github.com/DevMari999/DevMari999/assets/135366781/dcd0e048-f05e-4d80-a0d9-34b85b09f26a)
+![WElcome, My name is Marina](https://github.com/DevMari999/DevMari999/assets/135366781/fb6a3929-665f-448b-b083-48c5993f1186)
 
 <br/>
 
