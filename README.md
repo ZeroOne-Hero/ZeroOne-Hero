@@ -32,8 +32,11 @@
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
+
 ![DevMari999's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DevMari999&theme=merko&show_icons=true&hide_border=true&layout=compact)
+
 ![DevMari999's Streak](https://github-readme-streak-stats.herokuapp.com/?user=DevMari999&theme=merko&hide_border=true)
+
 <br/><br/>
 <hr/>
 
