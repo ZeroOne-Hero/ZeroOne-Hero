@@ -3,6 +3,7 @@
 <br/>
 
 ![WElcome, My name is Marina](https://github.com/DevMari999/DevMari999/assets/135366781/822002e3-7e7f-4716-87b8-65ccaf13417a)
+![WElcome, My name is Marina](https://github.com/DevMari999/DevMari999/assets/135366781/dcd0e048-f05e-4d80-a0d9-34b85b09f26a)
 
 <br/>
 
