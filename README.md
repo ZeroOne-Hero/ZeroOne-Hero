@@ -1,10 +1,9 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=DevMari999.DevMari999" />
 
-<img src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='100%' height='100%' viewBox='0 0 800 400' %3E%3Crect width='100%' height='100%' fill='%23111728'/%3E%3C/svg%3E" alt="Background Image">
-
 <br/>
 
 ![WElcome, My name is Marina](https://github.com/DevMari999/DevMari999/assets/135366781/fd017745-31b4-4609-8a1d-41ddb24a26fc)
+![WElcome, My name is Marina](https://github.com/DevMari999/DevMari999/assets/135366781/9be7e47e-5eec-41ec-9ec3-e879d4cebf53)
 
 <br/>
 
