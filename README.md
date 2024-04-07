@@ -2,7 +2,7 @@
 
 <br/>
 
-![Welcome, my name is marina(1)](https://github.com/ZeroOne-Hero/ZeroOne-Hero/assets/135366781/28758dce-1493-499a-861e-bb46be853cf0)
+![Welcome, my name is marina(3)](https://github.com/ZeroOne-Hero/ZeroOne-Hero/assets/135366781/c7e38f62-0e61-4fff-8237-66c7243146ac)
 
 <br/>
 
