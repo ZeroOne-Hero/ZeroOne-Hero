@@ -13,16 +13,11 @@
  </div>
 
 <div align="center">
-  <a href="mailto:qwe39117@gmail.com">
-    <img src="https://github.com/ZeroOne-Hero/ZeroOne-Hero/assets/135366781/28dfdce9-266a-44d3-bba5-3256b1bb8549" alt="Gmail" height="33" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  </a>
-  <a href="https://www.linkedin.com/in/ZeroOne-Hero/" target="_blank">
-    <img src="https://github.com/ZeroOne-Hero/ZeroOne-Hero/assets/135366781/363273e7-0a07-4665-92f9-408fe8c80e6a" alt="LinkedIn" height="33" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  </a>
-  <a href="https://portfolio-marina-kappa.vercel.app/">
-    <img src="https://github.com/ZeroOne-Hero/ZeroOne-Hero/assets/135366781/c068fd05-3a62-48e1-9130-8a9c9740682e" alt="Portfolio" height="33" />
-  </a>
+  <a href="mailto:qwe39117@gmail.com"><img src="https://github.com/ZeroOne-Hero/ZeroOne-Hero/assets/135366781/28dfdce9-266a-44d3-bba5-3256b1bb8549" alt="Gmail" height="33" /></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/ZeroOne-Hero/" target="_blank"><img src="https://github.com/ZeroOne-Hero/ZeroOne-Hero/assets/135366781/363273e7-0a07-4665-92f9-408fe8c80e6a" alt="LinkedIn" height="33" /></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://portfolio-marina-kappa.vercel.app/"><img src="https://github.com/ZeroOne-Hero/ZeroOne-Hero/assets/135366781/c068fd05-3a62-48e1-9130-8a9c9740682e" alt="Portfolio" height="33" /></a>
 </div>
+
 
 
 
