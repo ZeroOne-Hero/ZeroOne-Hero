@@ -14,13 +14,13 @@
 
 <div align="center">
   <a href="mailto:qwe39117@gmail.com">
-    <img src="https://github.com/ZeroOne-Hero/ZeroOne-Hero/assets/135366781/789fb63a-f4e9-4400-8026-a73b39ccbcc9" alt="Gmail" height="35"/>
+    <img src="https://github.com/ZeroOne-Hero/ZeroOne-Hero/assets/135366781/789fb63a-f4e9-4400-8026-a73b39ccbcc9" alt="Gmail" height="32"/>
   </a>
   <a href="https://www.linkedin.com/in/ZeroOne-Hero/" target="_blank">
-    <img src="https://github.com/ZeroOne-Hero/ZeroOne-Hero/assets/135366781/919973c8-bc5b-4dc9-945d-1354396883b7" alt="LinkedIn" height="35"/>
+    <img src="https://github.com/ZeroOne-Hero/ZeroOne-Hero/assets/135366781/919973c8-bc5b-4dc9-945d-1354396883b7" alt="LinkedIn" height="32"/>
   </a>
   <a href="https://portfolio-marina-kappa.vercel.app/">
-    <img src="https://github.com/ZeroOne-Hero/ZeroOne-Hero/assets/135366781/cf6a7bcb-d6f5-4815-8e6c-36991575564d" alt="Portfolio" height="35"/>
+    <img src="https://github.com/ZeroOne-Hero/ZeroOne-Hero/assets/135366781/cf6a7bcb-d6f5-4815-8e6c-36991575564d" alt="Portfolio" height="32"/>
   </a>
 </div>
 
