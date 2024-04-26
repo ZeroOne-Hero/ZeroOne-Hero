@@ -1,8 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=ZeroOne-Hero.ZeroOne-Hero" />
 
 <br/>
-
-![Welcome, my name is marina(3)](https://github.com/ZeroOne-Hero/ZeroOne-Hero/assets/135366781/c7e38f62-0e61-4fff-8237-66c7243146ac)
+![Welcome, my name is marina(4)](https://github.com/ZeroOne-Hero/ZeroOne-Hero/assets/135366781/daf60bdb-77c3-4e0d-a8ab-451b5b04ec6e)
 
 <br/>
 
